@@ -1,0 +1,43 @@
+<!doctype html>
+<!--
+ This page is shown when the extension button is clicked, because the
+ "browser_action" field in manifest.json contains the "default_popup" key with
+ value "popup.html".
+ -->
+<html lang="tr">
+  <head>
+    <title>Getting Started Extension's Popup</title>
+    <link rel="stylesheet" href="popup.css" type="text/css"/>
+    <script src="popup.js"></script>
+  </head>
+  <body>
+    <div id="wrapper">
+      <header class="head">Çomarblocker Beta</header>
+      <div class="content">
+        <div id="desc">Çomarblocker, Twitter'da çomarlarý toplu halde bloklamak için kullanabileceðiniz bir uzantýdýr.
+        </div>
+        <hr>
+        <div class="ready">
+          <div class="hero">
+            <div class="left">
+              <img class="icon" src="icon.png" style="">
+            </div>
+            <div class="middle">
+              <h3 id="count">34</h3> 
+            </div>
+            <div class="right">
+              <div class="text"> çomar saptandý!</div>
+            </div>
+          </div>
+          <button onclick="blockEm()">çomarlarý blokla!</button>
+        </div>
+        <div class="not-ready">
+          <p>Çomarblocker,<br>
+          <strong>Takip Edilen(Following)</strong> ve <strong>Takipçiler(Followers)</strong> sayfalarýnda çalýþýr. Sayfaya gidip tekrar deneyiniz.</p>
+          <img src="helper.png">
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+

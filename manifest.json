@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+
+  "name": "Çomarblocker",
+  "description": "Çomarlara geçit yok!",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html",
+    "default_title": "çomarblocker beta"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "http://www.twitter.com/*/following",
+        "https://www.twitter.com/*/following",
+        "http://www.twitter.com/*/followers",
+        "https://www.twitter.com/*/followers"
+      ],
+      "js": ["ffblock.js"]
+    }
+  ]
+}
