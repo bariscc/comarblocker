@@ -4,6 +4,7 @@ body {
   color: #1c304e;
   line-height: 1.4;
   margin: 0;
+  user-select: none;
 }
 #wrapper {  
   width: 370px;
@@ -72,7 +73,116 @@ body {
   color: #fff;
   overflow: hidden;
   position: relative;
+  font-size: 13px;
+    font-weight: bold;
+
+}
+.head img {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 100%;
+    padding: 2px;
+    top: 11px;
+    position: absolute;
+    left: 11px;
 }
 .content {
   padding: 5px;
+}
+
+button {
+  cursor: pointer;
+    color: #fff;
+    font-family: 'Segoe UI', sans-serif;
+    font-weight: bold;
+    border-radius: 21px;
+    padding: 7px 10px;
+    border: transparent;
+}
+
+#blockButton {
+    background-color: #ac002b;
+    width: 110px;
+    float: right;
+
+}
+#loadButton {
+  /*border: 1px solid #1d669e;*/
+  color: #1d669e;
+  /*background:#fff;*/
+}
+
+
+.styled-checkbox {
+  position: absolute;
+  opacity: 0;
+  display: block;
+}
+.styled-checkbox + label {
+    position: relative;
+    cursor: pointer;
+    padding: 0;
+    display: inline-block;
+    padding-bottom: 10px;
+    line-height: 30px;
+
+}
+.styled-checkbox + label:before {
+    content: '';
+    margin-right: 10px;
+    display: inline-block;
+    vertical-align: text-top;
+    width: 20px;
+    height: 20px;
+    background: #ccc;
+    border-radius: 100%;
+    margin-top: -2px;
+}
+.styled-checkbox:hover + label:before {
+  background: #3C92C7;
+}
+.styled-checkbox:checked + label:before {
+  background: #3C92C7;
+}
+.styled-checkbox:disabled + label {
+  color: #b8b8b8;
+  cursor: auto;
+}
+.styled-checkbox:disabled + label:before {
+  box-shadow: none;
+  background: #ddd;
+}
+.styled-checkbox:checked + label:after {
+  content: '';
+  position: absolute;
+  left: 5px;
+  top: 14px;
+  background: white;
+  width: 2px;
+  height: 2px;
+  box-shadow: 2px 0 0 white, 4px 0 0 white, 4px -2px 0 white, 4px -4px 0 white, 4px -6px 0 white, 4px -8px 0 white;
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+
+.footer {
+  background-color: #ccc;
+  font-size: 10px;
+}
+.footer-right {
+  float: right;  
+}
+.footer a {
+  font-weight: bold;
+  color: maroon;
+}
+
+.p-10 {
+  padding: 10px;
+}
+
+.text-left {
+  text-align: left;
 }

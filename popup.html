@@ -1,42 +1,49 @@
 <!doctype html>
-<!--
- This page is shown when the extension button is clicked, because the
- "browser_action" field in manifest.json contains the "default_popup" key with
- value "popup.html".
- -->
 <html lang="tr">
   <head>
-    <title>Getting Started Extension's Popup</title>
+    <title>Çomarblocker</title>
     <link rel="stylesheet" href="popup.css" type="text/css"/>
+    <link rel="stylesheet" href="fontello.css" type="text/css"/>
     <script src="popup.js"></script>
   </head>
   <body>
     <div id="wrapper">
-      <header class="head">Çomarblocker Beta</header>
-      <div class="content">
-        <div id="desc">Çomarblocker, Twitter'da çomarlarý toplu halde bloklamak için kullanabileceðiniz bir uzantýdýr.
+      <header class="head"><img src="icon.png"> Çomarblocker Beta</header>
+        <div id="desc" class="p-10">Çomarblocker, Twitter'da çomarlarý toplu halde bloklamak için kullanabileceðiniz bir uzantýdýr.
         </div>
-        <hr>
         <div class="ready">
           <div class="hero">
             <div class="left">
               <img class="icon" src="icon.png" style="">
             </div>
             <div class="middle">
-              <h3 id="count">34</h3> 
+              <h3 id="count"></h3> 
             </div>
             <div class="right">
               <div class="text"> çomar saptandý!</div>
             </div>
           </div>
-          <button onclick="blockEm()">çomarlarý blokla!</button>
+            
+          <a href="#" id="loadButton">+ daha fazla çomar</a>
+          <hr>
+          <div class="p-10 text-left">
+          <input class="styled-checkbox" type="checkbox" value="1" id="followerFlag">
+          <label for="followerFlag">Beni takip edenleri de blokla</label>
+          <button id="blockButton"><i class="icon-block"></i> blokla!</button>
+          </div>
         </div>
         <div class="not-ready">
-          <p>Çomarblocker,<br>
-          <strong>Takip Edilen(Following)</strong> ve <strong>Takipçiler(Followers)</strong> sayfalarýnda çalýþýr. Sayfaya gidip tekrar deneyiniz.</p>
+          <p><strong>Takip Edilen(Following)</strong> ve <strong>Takipçiler(Followers)</strong> sayfalarýnda çalýþýr. Sayfaya gidip tekrar deneyiniz.</p>
           <img src="helper.png">
         </div>
       </div>
+    <div class="footer p-10">
+      <span class="footer-left">
+        <i class="icon-question"></i> Yardým
+      </span>
+      <span class="footer-right">
+      Görüþ / Öneri / Geribildirim: <a href="https://twitter.com/lIlmirlIl">@lIlmirlIl</a>
+      </span>
     </div>
   </body>
 </html>

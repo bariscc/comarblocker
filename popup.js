@@ -76,8 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
       var pattern = new RegExp('http(?:s)?:\/\/(?:www\.)?twitter\.com\/([a-zA-Z0-9_]+)\/(followers|following)$');
       if(pattern.test(url)){
         renderStatus(true);
-        chrome.tabs.executeScript({
-            file: 'ffblock.js'
+        chrome.tabs.executeScript(null, { 
+          file: "jquery.slim.min.js"
+        }, function() {
+          chrome.tabs.executeScript(null, { file: "ffcount.js" });
         });
       }
       else {
@@ -86,13 +88,35 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
   });
+
+  var blockButton = document.getElementById('blockButton');
+  blockButton.addEventListener("click", function() {
+    var followerFlag = document.getElementById("followerFlag").checked;
+    console.log(followerFlag);
+    // alert("blokla!");
+    chrome.tabs.executeScript(null, { 
+      file: "jquery.slim.min.js"
+    }, function() {
+        chrome.tabs.executeScript(null, { 
+          code: 'var followerFlag = '+followerFlag+';'
+        }, function() {
+          chrome.tabs.executeScript(null, { file: "ffblock.js" });
+        });
+    });
+  }, false);
+
+  var loadButton = document.getElementById('loadButton');
+  loadButton.addEventListener("click", function() {
+    chrome.tabs.executeScript(null, { 
+      file: "jquery.slim.min.js"
+    }, function() {
+      chrome.tabs.executeScript(null, { file: "ffload.js" });
+    });
+  }, false); 
+
 });
 
 chrome.extension.onRequest.addListener(function(arr,sender,sendResponse) {
-  renderCount(arr.length);
+  renderCount(arr[0].count);
 });
 
-
-function blockEm() {
-  alert('yes');
-}
