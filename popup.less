@@ -6,7 +6,7 @@ body {
   margin: 0;
   user-select: none;
 }
-#wrapper {
+#wrapper {  
   width: 370px;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
@@ -18,6 +18,7 @@ body {
 .hidden {
   display: none !important;
 }
+
 #desc {
   text-align: center;
   padding: 5px;
@@ -25,29 +26,27 @@ body {
 .ready {
   display: none;
 }
+
 .hero {
   display: flex;
 }
-.left,
-.right,
-.middle {
+.left, .right,.middle {
   flex-grow: 1;
   flex-basis: 0;
   text-align: center;
 }
-.middle,
-.right {
+.middle, .right {
   justify-content: center;
   flex-direction: column;
   text-align: center;
 }
 .left .icon {
   display: block;
-  width: 64px;
+  width: 64px; 
   height: auto;
   margin: auto 0 auto auto;
 }
-.left {
+.left {  
   display: flex;
   padding-right: 10px;
   align-items: center;
@@ -90,91 +89,103 @@ h4 {
   overflow: hidden;
   position: relative;
   font-size: 13px;
-  font-weight: bold;
+    font-weight: bold;
+
 }
 .head img {
-  width: 30px;
-  height: 30px;
-  display: inline-block;
-  background-color: #fff;
-  border-radius: 100%;
-  padding: 2px;
-  top: 11px;
-  position: absolute;
-  left: 11px;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    background-color: #fff;
+    border-radius: 100%;
+    padding: 2px;
+    top: 11px;
+    position: absolute;
+    left: 11px;
 }
 .content {
   padding: 5px;
 }
+
 #blockButton {
-  float: right;
-  font-size: 16px;
+    float: right;
+    font-size: 16px;
+
 }
+
+
 .styled-checkbox {
   position: absolute;
   opacity: 0;
   display: block;
+  & + label {
+    position: relative;
+    cursor: pointer;
+    padding: 0;
+    display: inline-block;
+    padding-bottom: 10px;
+    line-height: 34px;
+    font-size: 13px;
+    &:before {
+      content: '';
+      margin-right: 10px;
+      display: inline-block;
+      vertical-align: text-top;
+      width: 18px;
+      height: 18px;
+      background: #ccc;
+      border-radius: 100%;
+      margin-top: -1px;
+    }
+  }
+  &:hover + label:before {
+    background: #3C92C7;
+  }
+  &:checked + label {
+    &:before {
+      background: #3C92C7;
+    }
+    &:after {
+      content: '';
+      position: absolute;
+      left: 4px;
+      top: 16px;
+      background: white;
+      width: 2px;
+      height: 2px;
+      box-shadow: 2px 0 0 white, 4px 0 0 white, 4px -2px 0 white, 4px -4px 0 white, 4px -6px 0 white, 4px -8px 0 white;
+      -webkit-transform: rotate(45deg);
+              transform: rotate(45deg);
+    }
+  }
 }
-.styled-checkbox + label {
-  position: relative;
-  cursor: pointer;
-  padding: 0;
-  display: inline-block;
-  padding-bottom: 10px;
-  line-height: 34px;
-  font-size: 13px;
-}
-.styled-checkbox + label:before {
-  content: '';
-  margin-right: 10px;
-  display: inline-block;
-  vertical-align: text-top;
-  width: 18px;
-  height: 18px;
-  background: #ccc;
-  border-radius: 100%;
-  margin-top: -1px;
-}
-.styled-checkbox:hover + label:before {
-  background: #3C92C7;
-}
-.styled-checkbox:checked + label:before {
-  background: #3C92C7;
-}
-.styled-checkbox:checked + label:after {
-  content: '';
-  position: absolute;
-  left: 4px;
-  top: 16px;
-  background: white;
-  width: 2px;
-  height: 2px;
-  box-shadow: 2px 0 0 white, 4px 0 0 white, 4px -2px 0 white, 4px -4px 0 white, 4px -6px 0 white, 4px -8px 0 white;
-  -webkit-transform: rotate(45deg);
-  transform: rotate(45deg);
-}
+
 .footer {
   background-color: #ccc;
   font-size: 10px;
+  .footer-right {
+    float: right;  
+  }
+  a {
+    font-weight: bold;
+    color: maroon;
+  }
 }
-.footer .footer-right {
-  float: right;
-}
-.footer a {
-  font-weight: bold;
-  color: maroon;
-}
+
 .p-10 {
   padding: 10px;
 }
+
 .text-left {
   text-align: left;
 }
+
 .note {
   font-size: 11px;
   color: #aaa;
-  margin: 0;
+  margin:0;
 }
+
 .btn {
   cursor: pointer;
   color: #fff;
@@ -183,22 +194,23 @@ h4 {
   border-radius: 21px;
   padding: 7px 10px;
   border: transparent;
+  &.btn-danger {
+    background-color: #ac002b;
+  }
+  &.btn-primary {
+    background-color: #1da1f2;
+  }
+  &:disabled {
+    background-color: #eee !important;
+    color: #aaa !important;
+    cursor: default;
+  }
 }
-.btn.btn-danger {
-  background-color: #ac002b;
-}
-.btn.btn-primary {
-  background-color: #1da1f2;
-}
-.btn:disabled {
-  background-color: #eee !important;
-  color: #aaa !important;
-  cursor: default;
-}
-h3,
-h4 {
+
+h3, h4 {
   margin: 0;
 }
+
 #opStatus {
   padding-bottom: 10px;
 }

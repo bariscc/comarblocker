@@ -1,122 +1,112 @@
-// Copyright (c) 2014 The Chromium Authors. All rights reserved.
-// Use of this source code is governed by a BSD-style license that can be
-// found in the LICENSE file.
-
-/**
- * Get the current URL.
- *
- * @param {function(string)} callback - called when the URL of the current tab
- *   is found.
- */
 function getCurrentTabUrl(callback) {
-  // Query filter to be passed to chrome.tabs.query - see
-  // https://developer.chrome.com/extensions/tabs#method-query
+
   var queryInfo = {
     active: true,
     currentWindow: true
   };
 
   chrome.tabs.query(queryInfo, function(tabs) {
-    // chrome.tabs.query invokes the callback with a list of tabs that match the
-    // query. When the popup is opened, there is certainly a window and at least
-    // one tab, so we can safely assume that |tabs| is a non-empty array.
-    // A window can only have one active tab at a time, so the array consists of
-    // exactly one tab.
     var tab = tabs[0];
-
-    // A tab is a plain object that provides information about the tab.
-    // See https://developer.chrome.com/extensions/tabs#type-Tab
     var url = tab.url;
-
-    // tab.url is only available if the "activeTab" permission is declared.
-    // If you want to see the URL of other tabs (e.g. after removing active:true
-    // from |queryInfo|), then the "tabs" permission is required to see their
-    // "url" properties.
     console.assert(typeof url == 'string', 'tab.url should be a string');
-
     callback(url);
   });
 
-  // Most methods of the Chrome extension APIs are asynchronous. This means that
-  // you CANNOT do something like this:
-  //
-  // var url;
-  // chrome.tabs.query(queryInfo, function(tabs) {
-  //   url = tabs[0].url;
-  // });
-  // alert(url); // Shows "undefined", because chrome.tabs.query is async.
 }
-
-/**
- * @param {string} searchTerm - Search term for Google Image search.
- * @param {function(string,number,number)} callback - Called when an image has
- *   been found. The callback gets the URL, width and height of the image.
- * @param {function(string)} errorCallback - Called when the image is not found.
- *   The callback gets a string that describes the failure reason.
- */
-
 
 function renderStatus(status) {
   if(status == true) {
     document.getElementById('wrapper').className = "active";
-  }
-  else {
+  } else {
     document.getElementById('wrapper').className = "";
   }
 }
 
-function renderCount(count) {
-  document.getElementById('count').innerHTML = count;  
+function renderCount(count,alreadyBlocked) {
+  document.getElementById('count').innerHTML = count;
+  document.getElementById('alreadyBlocked').innerHTML = alreadyBlocked;
 }
 
 document.addEventListener('DOMContentLoaded', function() {
+
   getCurrentTabUrl(function(url) {
-    // Check url.
     if(url) {
       var pattern = new RegExp('http(?:s)?:\/\/(?:www\.)?twitter\.com\/([a-zA-Z0-9_]+)\/(followers|following)$');
       if(pattern.test(url)){
         renderStatus(true);
-        chrome.tabs.executeScript(null, { 
-          file: "jquery.slim.min.js"
-        }, function() {
-          chrome.tabs.executeScript(null, { file: "ffcount.js" });
+        chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
+          chrome.tabs.sendMessage(tabs[0].id, {action: "update"}, function(response) {});
         });
       }
       else {
         renderStatus(false);
       }
     }
+  });
+
+  var loadButton = document.getElementById('loadButton');
+  var blockButton = document.getElementById('blockButton');
+  var opStatus = document.getElementById('opStatus');
+
+  loadButton.addEventListener("click", function() {
+
+    chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
+
+      if(loadButton.getAttribute("status") == "running") {
+        
+        chrome.tabs.sendMessage(tabs[0].id, {action: "stop"}, function(response) {          
+          loadButton.innerHTML = "<i class='icon-play'></i> Yüklemeye Devam Et";
+          loadButton.setAttribute("status", "stopped");
+        });
+
+      } else {
+
+        chrome.tabs.sendMessage(tabs[0].id, {action: "start"}, function(response) {          
+          loadButton.innerHTML = "<i class='icon-stop'></i> Yüklemeyi Durdur";
+          loadButton.setAttribute("status", "running");
+        });
+      }
+
+    });
+  });
+
+  blockButton.addEventListener("click", function() {
+
+    var followerFlag = document.getElementById('followerFlag').checked;
+
+    chrome.tabs.query({active: true, currentWindow: true}, function(tabs) { 
+      if(loadButton.getAttribute("status") == "running") {
+        
+        chrome.tabs.sendMessage(tabs[0].id, {action: "stop"}, function(response) {          
+          loadButton.innerHTML = "<i class='icon-play'></i> Yüklemeye Devam Et";
+          loadButton.setAttribute("status", "stopped");
+        });
+
+      }
+
+      chrome.tabs.sendMessage(tabs[0].id, {action: "block", followerFlag: followerFlag}, function(response) {});
+
+    });
 
   });
 
-  var blockButton = document.getElementById('blockButton');
-  blockButton.addEventListener("click", function() {
-    var followerFlag = document.getElementById("followerFlag").checked;
-    console.log(followerFlag);
-    // alert("blokla!");
-    chrome.tabs.executeScript(null, { 
-      file: "jquery.slim.min.js"
-    }, function() {
-        chrome.tabs.executeScript(null, { 
-          code: 'var followerFlag = '+followerFlag+';'
-        }, function() {
-          chrome.tabs.executeScript(null, { file: "ffblock.js" });
-        });
-    });
-  }, false);
+  chrome.extension.onRequest.addListener(function(arr,sender,sendResponse) {
 
-  var loadButton = document.getElementById('loadButton');
-  loadButton.addEventListener("click", function() {
-    chrome.tabs.executeScript(null, { 
-      file: "jquery.slim.min.js"
-    }, function() {
-      chrome.tabs.executeScript(null, { file: "ffload.js" });
-    });
-  }, false); 
+    if(arr[0].operation == 'loading') {
+      renderCount(arr[0].count,arr[0].alreadyBlocked);
+    }
+    if(arr[0].operation == 'loadingDone') {
+      renderCount(arr[0].count,arr[0].alreadyBlocked);
+      loadButton.innerHTML = "<i class='icon-check'></i> Tüm Hesaplar Yüklendi";
+      loadButton.setAttribute("status", "finished");
+      loadButton.disabled = true;
+    }
+    if(arr[0].operation == 'started') {
+      opStatus.innerHTML = "İşlem Sürüyor, Lütfen Bekleyiniz.<br>"+arr[0].blockedCount+" Hesap...";
+    }
+    if(arr[0].operation == 'completed') {
+      opStatus.innerHTML = "İşlem Tamamlandı!<br>Toplam "+arr[0].blockedCount+" Hesap Bloklandı!";   
+    }
+  });
 
 });
-
-chrome.extension.onRequest.addListener(function(arr,sender,sendResponse) {
-  renderCount(arr[0].count);
-});
-

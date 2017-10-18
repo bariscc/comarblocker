@@ -1,0 +1,2849 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"aling-",
+				"align-items"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"paddin",
+				"padding_x"
+			],
+			[
+				"spli",
+				"splitted_title"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"transla",
+				"translateY"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"trans",
+				"translatey"
+			],
+			[
+				"is",
+				"isAuthenticated"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"entry",
+				"entryShareUrl"
+			],
+			[
+				"entrysh",
+				"entryShareTitle"
+			],
+			[
+				"entr",
+				"entryShareUrl"
+			],
+			[
+				"list-i",
+				"list-inline"
+			],
+			[
+				"def",
+				"definitions"
+			],
+			[
+				"bkac",
+				"black-color"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"replace",
+				"replaceLink"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"absolute-cen",
+				"absolute-center-h"
+			],
+			[
+				"switch-",
+				"switch-label"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"ref",
+				"refreshUi"
+			],
+			[
+				"from",
+				"fromY"
+			],
+			[
+				"absolute-c",
+				"absolute-center"
+			],
+			[
+				"absolute-ce",
+				"absolute-center"
+			],
+			[
+				"ajaxL",
+				"ajax_loader_timeout"
+			],
+			[
+				"get",
+				"getHours"
+			],
+			[
+				"main",
+				"mainWeather"
+			],
+			[
+				"in",
+				"z-index"
+			],
+			[
+				"por",
+				"port_table"
+			],
+			[
+				"we",
+				"webtype_table"
+			],
+			[
+				"webty",
+				"webtypes"
+			],
+			[
+				"locati",
+				"location_table"
+			],
+			[
+				"port",
+				"PortType"
+			],
+			[
+				"Va",
+				"Value_Ext"
+			],
+			[
+				"public",
+				"public"
+			],
+			[
+				"jqury",
+				"jquery-ui"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"abs",
+				"absolute-center"
+			],
+			[
+				"ui-slider",
+				"ui-slider-handle"
+			],
+			[
+				"ui-s",
+				"ui-slider-range"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"analog",
+				"analogdiv"
+			],
+			[
+				"rR",
+				"rRoomOnOff"
+			],
+			[
+				"slider",
+				"slider-round"
+			],
+			[
+				"ab",
+				"absolute-center"
+			],
+			[
+				"abso",
+				"absolute-center"
+			],
+			[
+				"block",
+				"block-color"
+			],
+			[
+				"menu-tog",
+				"menu-toggle-move-down"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"block-c",
+				"block-color"
+			],
+			[
+				"web",
+				"webtype"
+			],
+			[
+				"Fake",
+				"sFakeNameForm"
+			],
+			[
+				"fa",
+				"fake-name-form"
+			],
+			[
+				"translate",
+				"translateX"
+			],
+			[
+				"overf",
+				"overflow"
+			],
+			[
+				"ion-",
+				"ion-ios-arrow-back"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"overlay",
+				"overlay"
+			],
+			[
+				"mn",
+				"main-color"
+			],
+			[
+				"font-robo",
+				"font-roboto-thin"
+			],
+			[
+				"font",
+				"font-opensans"
+			],
+			[
+				"wea",
+				"weather"
+			],
+			[
+				"weath",
+				"weatherToDom"
+			],
+			[
+				"res",
+				"resultTask"
+			],
+			[
+				"Port",
+				"PortFunction"
+			],
+			[
+				"sched",
+				"schedule"
+			],
+			[
+				"sche",
+				"schedule"
+			],
+			[
+				"Tas",
+				"TaskNdx"
+			],
+			[
+				"chec",
+				"check_lastPart"
+			],
+			[
+				"block-co",
+				"block-color-shadow"
+			],
+			[
+				"taski",
+				"taskicon"
+			],
+			[
+				"quer",
+				"queryTasks"
+			],
+			[
+				"follo",
+				"followerFlag"
+			],
+			[
+				"floo",
+				"followerFlag"
+			],
+			[
+				"ski",
+				"skippedFollower"
+			],
+			[
+				"skippedFollo",
+				"skippedFollowing"
+			],
+			[
+				"timertype",
+				"timerType"
+			],
+			[
+				"dai",
+				"dailyRenew"
+			],
+			[
+				"da",
+				"days"
+			],
+			[
+				"el",
+				"el"
+			],
+			[
+				"days",
+				"daystring"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"mas",
+				"master_val"
+			],
+			[
+				"bakcground-",
+				"background-position"
+			],
+			[
+				"absol",
+				"absolute-center"
+			],
+			[
+				"item",
+				"item"
+			],
+			[
+				"pick",
+				"pickup-item"
+			],
+			[
+				"port_i",
+				"port_index"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"swiper",
+				"swiper-no-swiping"
+			],
+			[
+				"master",
+				"master_table"
+			],
+			[
+				"item_list_t",
+				"item_list_target"
+			],
+			[
+				"backgroud-c",
+				"background-color"
+			],
+			[
+				"ania",
+				"animate-bg"
+			],
+			[
+				"absolu",
+				"absolute-center-v"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"15px",
+				"15px"
+			],
+			[
+				"body",
+				"bodyId"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"pt-page-",
+				"pt-page-scaleDown"
+			],
+			[
+				"paddin-",
+				"padding-left"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"abslute-cent",
+				"absolute-center-h"
+			],
+			[
+				"font-",
+				"font-roboto"
+			],
+			[
+				"background-",
+				"background-position"
+			],
+			[
+				"day2",
+				"day2bin"
+			],
+			[
+				"backgroun-",
+				"background-image"
+			],
+			[
+				"months",
+				"monthstring"
+			],
+			[
+				"repeat",
+				"repeat_type"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"port_port",
+				"port_portdata"
+			],
+			[
+				"backgroud",
+				"background-image"
+			],
+			[
+				"popup",
+				"popup-elem-bg"
+			],
+			[
+				"type_",
+				"type_portlist_el"
+			],
+			[
+				"merge",
+				"mergeTables"
+			],
+			[
+				"time_",
+				"time_program"
+			],
+			[
+				"scenario",
+				"scenarioData"
+			],
+			[
+				"PROGRAM",
+				"program_info_mode"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/bcc/Desktop/ffcount.js",
+			"settings":
+			{
+				"buffer_size": 365,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "popup.html",
+			"settings":
+			{
+				"buffer_size": 2307,
+				"encoding": "Turkish (ISO 8859-9)",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "body {\n  overflow: hidden;\n  font: 14px 'Open Sans', Arial, sans-serif;\n  color: #1c304e;\n  line-height: 1.4;\n  margin: 0;\n  user-select: none;\n}\n#wrapper {  \n  width: 370px;\n  -webkit-box-sizing: border-box;\n  box-sizing: border-box;\n  position: relative;\n  background: #fff;\n  overflow: hidden;\n  text-align: center;\n}\n#desc {\n  text-align: center;\n  padding: 5px;\n}\n.hidden {\n  display: none !important;\n}\n.ready {\n  display: none;\n}\n\n.hero {\n  display: flex;\n}\n.left, .right {\n  flex-grow: 1;\n  flex-basis: 0;\n}\n.left .icon {\n  display: block;\n  width: 64px; \n  height: auto;\n  margin: auto 0 auto auto;\n}\n.left {  \n  display: flex;\n  padding-right: 10px;\n  align-items: center;\n}\n.right {\n  text-align: left;\n  display: flex;\n  align-items: center;\n  padding-left: 8px;\n}\n.middle {\n  align-items: center;\n  display: flex;\n  font-size: 25px;\n  font-weight: 100;\n}\n.not-ready {\n  display: block;\n  text-align: center;\n}\n#wrapper.active .ready {\n  display: block;\n}\n#wrapper.active .not-ready {\n  display: none;\n}\n.head {\n  height: 56px;\n  padding: 0 10px;\n  text-align: center;\n  line-height: 56px;\n  background: #28344f;\n  color: #fff;\n  overflow: hidden;\n  position: relative;\n  font-size: 13px;\n    font-weight: bold;\n\n}\n.head img {\n    width: 30px;\n    height: 30px;\n    display: inline-block;\n    background-color: #fff;\n    border-radius: 100%;\n    padding: 2px;\n    top: 11px;\n    position: absolute;\n    left: 11px;\n}\n.content {\n  padding: 5px;\n}\n\n#blockButton {    \n    width: 110px;\n    float: right;\n\n}\n#loadButton {\n  /*border: 1px solid #1d669e;*/\n  color: #1d669e;\n  /*background:#fff;*/\n}\n\n\n.styled-checkbox {\n  position: absolute;\n  opacity: 0;\n  display: block;\n}\n.styled-checkbox + label {\n    position: relative;\n    cursor: pointer;\n    padding: 0;\n    display: inline-block;\n    padding-bottom: 10px;\n    line-height: 30px;\n\n}\n.styled-checkbox + label:before {\n    content: '';\n    margin-right: 10px;\n    display: inline-block;\n    vertical-align: text-top;\n    width: 20px;\n    height: 20px;\n    background: #ccc;\n    border-radius: 100%;\n    margin-top: -2px;\n}\n.styled-checkbox:hover + label:before {\n  background: #3C92C7;\n}\n.styled-checkbox:checked + label:before {\n  background: #3C92C7;\n}\n.styled-checkbox:disabled + label {\n  color: #b8b8b8;\n  cursor: auto;\n}\n.styled-checkbox:disabled + label:before {\n  box-shadow: none;\n  background: #ddd;\n}\n.styled-checkbox:checked + label:after {\n  content: '';\n  position: absolute;\n  left: 5px;\n  top: 14px;\n  background: white;\n  width: 2px;\n  height: 2px;\n  box-shadow: 2px 0 0 white, 4px 0 0 white, 4px -2px 0 white, 4px -4px 0 white, 4px -6px 0 white, 4px -8px 0 white;\n  -webkit-transform: rotate(45deg);\n          transform: rotate(45deg);\n}\n\n.footer {\n  background-color: #ccc;\n  font-size: 10px;\n}\n.footer-right {\n  float: right;  \n}\n.footer a {\n  font-weight: bold;\n  color: maroon;\n}\n\n.p-10 {\n  padding: 10px;\n}\n\n.text-left {\n  text-align: left;\n}\n\n.note {\n  font-size: 11px;\n  color: #aaa;\n}\n\n.btn {\n  cursor: pointer;\n  color: #fff;\n  font-family: 'Segoe UI', sans-serif;\n  font-weight: bold;\n  border-radius: 21px;\n  padding: 7px 10px;\n  border: transparent;\n}\n\n.btn-danger {\n  background-color: #ac002b;\n}\n\n.btn-primary {\n\n}",
+			"file": "popup.css",
+			"file_size": 3234,
+			"file_write_time": 131521126213040830,
+			"settings":
+			{
+				"buffer_size": 3212,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "popup.less",
+			"settings":
+			{
+				"buffer_size": 34,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "popup.js",
+			"settings":
+			{
+				"buffer_size": 4064,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "body {\n  overflow: hidden;\n  font: 14px 'Open Sans', Arial, sans-serif;\n  color: #1c304e;\n  line-height: 1.4;\n  margin: 0;\n  user-select: none;\n}\n#wrapper {  \n  width: 370px;\n  -webkit-box-sizing: border-box;\n  box-sizing: border-box;\n  position: relative;\n  background: #fff;\n  overflow: hidden;\n  text-align: center;\n}\n#desc {\n  text-align: center;\n  padding: 5px;\n}\n.hidden {\n  display: none !important;\n}\n.ready {\n  display: none;\n}\n\n.hero {\n  display: flex;\n}\n.left, .right {\n  flex-grow: 1;\n  flex-basis: 0;\n}\n.left .icon {\n  display: block;\n  width: 64px; \n  height: auto;\n  margin: auto 0 auto auto;\n}\n.left {  \n  display: flex;\n  padding-right: 10px;\n  align-items: center;\n}\n.right {\n  text-align: left;\n  display: flex;\n  align-items: center;\n  padding-left: 8px;\n}\n.middle {\n  align-items: center;\n  display: flex;\n  font-size: 25px;\n  font-weight: 100;\n}\n.not-ready {\n  display: block;\n  text-align: center;\n}\n#wrapper.active .ready {\n  display: block;\n}\n#wrapper.active .not-ready {\n  display: none;\n}\n.head {\n  height: 56px;\n  padding: 0 10px;\n  text-align: center;\n  line-height: 56px;\n  background: #28344f;\n  color: #fff;\n  overflow: hidden;\n  position: relative;\n  font-size: 13px;\n    font-weight: bold;\n\n}\n.head img {\n    width: 30px;\n    height: 30px;\n    display: inline-block;\n    background-color: #fff;\n    border-radius: 100%;\n    padding: 2px;\n    top: 11px;\n    position: absolute;\n    left: 11px;\n}\n.content {\n  padding: 5px;\n}\n\n#blockButton {    \n    width: 110px;\n    float: right;\n\n}\n#loadButton {\n  /*border: 1px solid #1d669e;*/\n  color: #1d669e;\n  /*background:#fff;*/\n}\n\n\n.styled-checkbox {\n  position: absolute;\n  opacity: 0;\n  display: block;\n}\n.styled-checkbox + label {\n    position: relative;\n    cursor: pointer;\n    padding: 0;\n    display: inline-block;\n    padding-bottom: 10px;\n    line-height: 30px;\n\n}\n.styled-checkbox + label:before {\n    content: '';\n    margin-right: 10px;\n    display: inline-block;\n    vertical-align: text-top;\n    width: 20px;\n    height: 20px;\n    background: #ccc;\n    border-radius: 100%;\n    margin-top: -2px;\n}\n.styled-checkbox:hover + label:before {\n  background: #3C92C7;\n}\n.styled-checkbox:checked + label:before {\n  background: #3C92C7;\n}\n.styled-checkbox:disabled + label {\n  color: #b8b8b8;\n  cursor: auto;\n}\n.styled-checkbox:disabled + label:before {\n  box-shadow: none;\n  background: #ddd;\n}\n.styled-checkbox:checked + label:after {\n  content: '';\n  position: absolute;\n  left: 5px;\n  top: 14px;\n  background: white;\n  width: 2px;\n  height: 2px;\n  box-shadow: 2px 0 0 white, 4px 0 0 white, 4px -2px 0 white, 4px -4px 0 white, 4px -6px 0 white, 4px -8px 0 white;\n  -webkit-transform: rotate(45deg);\n          transform: rotate(45deg);\n}\n\n.footer {\n  background-color: #ccc;\n  font-size: 10px;\n}\n.footer-right {\n  float: right;  \n}\n.footer a {\n  font-weight: bold;\n  color: maroon;\n}\n\n.p-10 {\n  padding: 10px;\n}\n\n.text-left {\n  text-align: left;\n}\n\n.note {\n  font-size: 11px;\n  color: #aaa;\n}\n\n.btn {\n  cursor: pointer;\n  color: #fff;\n  font-family: 'Segoe UI', sans-serif;\n  font-weight: bold;\n  border-radius: 21px;\n  padding: 7px 10px;\n  border: transparent;\n}\n\n.btn-danger {\n  background-color: #ac002b;\n}\n\n.btn-primary {\n\n}",
+			"settings":
+			{
+				"buffer_size": 3212,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 309.0,
+		"last_filter": "git checout",
+		"selected_items":
+		[
+			[
+				"git checout",
+				"Git: Checkout"
+			],
+			[
+				"git psuh",
+				"Git: Push"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"git q a",
+				"Git: Quick Add"
+			],
+			[
+				"git ch cu",
+				"Git: Checkout Current File"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git quic",
+				"Git: Quick Commit"
+			],
+			[
+				"git puhs",
+				"Git: Push"
+			],
+			[
+				"gti q",
+				"Git: Quick Commit"
+			],
+			[
+				"git dif",
+				"Git: Diff"
+			],
+			[
+				"git c",
+				"Git: Checkout Current File"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git di",
+				"Git: Diff"
+			],
+			[
+				"git ch cur f",
+				"Git: Checkout Current File"
+			],
+			[
+				"git d",
+				"Git: Diff"
+			],
+			[
+				"git pul",
+				"Git: Pull"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git puh",
+				"Git: Push"
+			],
+			[
+				"git qi",
+				"Git: Quick Add"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git diff",
+				"Git: Diff"
+			],
+			[
+				"gitq",
+				"Git: Quick Commit"
+			],
+			[
+				"git ch cu f",
+				"Git: Checkout Current File"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit"
+			],
+			[
+				"gitp u",
+				"Git: Push"
+			],
+			[
+				"gitp ush",
+				"Git: Push"
+			],
+			[
+				"re pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"git ch cur",
+				"Git: Checkout Current File"
+			],
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"gitpus",
+				"Git: Push"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git q ad",
+				"Git: Quick Add"
+			],
+			[
+				"git",
+				"Git: Quick Add"
+			],
+			[
+				"gitp us",
+				"Git: Push"
+			],
+			[
+				"git chec",
+				"Git: Stash Include Untracked"
+			],
+			[
+				"git che",
+				"Git: Checkout Tag"
+			],
+			[
+				"gti chec cur",
+				"Git: Checkout Current File"
+			],
+			[
+				"git psh",
+				"Git: Push"
+			],
+			[
+				"git q com",
+				"Git: Quick Commit"
+			],
+			[
+				"git ch c",
+				"Git: Checkout Current File"
+			],
+			[
+				"git c cur ",
+				"Git: Checkout Current File"
+			],
+			[
+				"git chec cu",
+				"Git: Checkout Current File"
+			],
+			[
+				"git aq",
+				"Git: Quick Add"
+			],
+			[
+				"git c cur",
+				"Git: Checkout Current File"
+			],
+			[
+				"git c cu f",
+				"Git: Checkout Current File"
+			],
+			[
+				"gitpul",
+				"Git: Pull"
+			],
+			[
+				"gi t pu",
+				"Git: Pull"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git c cu",
+				"Git: Checkout Current File"
+			],
+			[
+				"git ush",
+				"Git: Push"
+			],
+			[
+				"git c c",
+				"Git: Checkout Current File"
+			],
+			[
+				"git q c",
+				"Git: Quick Commit"
+			],
+			[
+				"gtiq",
+				"Git: Quick Add"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"git c c f",
+				"Git: Checkout Current File"
+			],
+			[
+				"git qc",
+				"Git: Quick Commit"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"in pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins pa",
+				"Package Control: Install Package"
+			],
+			[
+				"re oa",
+				"Package Control: Remove Package"
+			],
+			[
+				"i p",
+				"Package Control: Install Package"
+			],
+			[
+				"remo pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"gt quick com",
+				"Git: Quick Commit"
+			],
+			[
+				"rp",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"git c cur f",
+				"Git: Checkout Current File"
+			],
+			[
+				"git pusn",
+				"Git: Push Current Branch"
+			],
+			[
+				"git dif cu",
+				"Git: Diff Current File"
+			],
+			[
+				"git diff c",
+				"Git: Diff Current File"
+			],
+			[
+				"git stas",
+				"Git: Stash"
+			],
+			[
+				"git c cur fi",
+				"Git: Checkout Current File"
+			],
+			[
+				"git ch cu re",
+				"Git: Checkout Current File"
+			],
+			[
+				"git ch c f",
+				"Git: Checkout Current File"
+			],
+			[
+				"git dif c",
+				"Git: Diff Current File"
+			],
+			[
+				"git ch cur fi",
+				"Git: Checkout Current File"
+			],
+			[
+				"git che cur f",
+				"Git: Checkout Current File"
+			],
+			[
+				"git ccur",
+				"Git: Checkout Current File"
+			],
+			[
+				"t push",
+				"Git: Push"
+			],
+			[
+				"git q co",
+				"Git: Quick Commit"
+			],
+			[
+				"git ch",
+				"Git: Checkout Current File"
+			],
+			[
+				"git qu co",
+				"Git: Quick Commit"
+			],
+			[
+				"git chcu",
+				"Git: Checkout Current File"
+			],
+			[
+				"q ad",
+				"Git: Quick Add"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"git chc",
+				"Git: Checkout Current File"
+			],
+			[
+				"git cur ",
+				"Git: Checkout Current File"
+			],
+			[
+				"git qui",
+				"Git: Quick Add"
+			],
+			[
+				"git chec cur",
+				"Git: Checkout Current File"
+			],
+			[
+				"git quick",
+				"Git: Quick Commit"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 294.0,
+		"history":
+		[
+			"sudo strace -p -T -o sublime.trace",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/bcc/Projects/comarblocker"
+	],
+	"file_history":
+	[
+		"/home/bcc/Projects/comarblocker/popup.css",
+		"/home/bcc/Projects/comarblocker/fontello.css",
+		"/home/bcc/Desktop/not blocked.html",
+		"/home/bcc/Projects/comarblocker/popup.html",
+		"/home/bcc/Arduino/libraries/DFR_Key/DFR_Key.cpp",
+		"/home/bcc/Desktop/following followsyou.html",
+		"/home/bcc/Desktop/following.html",
+		"/home/bcc/Projects/comarblocker/ffcount.js",
+		"/home/bcc/Desktop/blocked.html",
+		"/home/bcc/Projects/comarblocker/ffblock.js",
+		"/home/bcc/Projects/comarblocker/ffload.js",
+		"/home/bcc/Downloads/json (1).json",
+		"/home/bcc/Arduino/libraries/arduino-ds1302-master/DS1302.h",
+		"/home/bcc/Projects/comarblocker/popup.js",
+		"/home/bcc/Desktop/build_defs.h",
+		"/home/bcc/Projects/comarblocker/manifest.json",
+		"/home/bcc/Projects/altsozluk/node_modules/canvas-text-wrapper/canvas-text-wrapper.min.js",
+		"/home/bcc/Projects/altsozluk/views/login.ejs",
+		"/home/bcc/Projects/altsozluk/helpers/util.js",
+		"/home/bcc/Projects/altsozluk/views/partials/entry.ejs",
+		"/home/bcc/Projects/altsozluk/node_modules/canvas-text-wrapper/canvas-text-wrapper.js",
+		"/home/bcc/Projects/altsozluk/views/new-word.ejs",
+		"/tmp/fz3temp-1/customised.owl.js",
+		"/tmp/fz3temp-1/logo-slider-wp-public.js",
+		"/home/bcc/Projects/altsozluk/routes/word.js",
+		"/home/bcc/Projects/altsozluk/views/word.ejs",
+		"/home/bcc/Projects/altsozluk/routes/image.js",
+		"/home/bcc/Projects/altsozluk/views/partials/scripts.ejs",
+		"/home/bcc/Projects/altsozluk/routes/admin.js",
+		"/home/bcc/Projects/altsozluk/package.json",
+		"/home/bcc/Projects/altsozluk/maintenance/faker.js",
+		"/home/bcc/Projects/altsozluk/views/partials/head.ejs",
+		"/home/bcc/Projects/altsozluk/views/partials/navbar.ejs",
+		"/home/bcc/Projects/altsozluk/styles/style.less",
+		"/home/bcc/Projects/altsozluk/views/partials/side-panel.ejs",
+		"/home/bcc/Projects/altsozluk/app.js",
+		"/home/bcc/Projects/altsozluk/views/partials/footer.ejs",
+		"/home/bcc/Projects/altsozluk/.env",
+		"/home/bcc/Projects/altsozluk/views/partials/login-script.ejs",
+		"/home/bcc/Projects/altsozluk/views/partials/new-word-script.ejs",
+		"/home/bcc/Projects/altsozluk/routes/index.js",
+		"/home/bcc/Projects/altsozluk/faker/faker.js",
+		"/home/bcc/Projects/altsozluk/views/tag-not-found.ejs",
+		"/home/bcc/Projects/altsozluk/views/user-not-found.ejs",
+		"/home/bcc/Projects/altsozluk/views/index.ejs",
+		"/home/bcc/Projects/altsozluk/public/components/tether/docs/welcome/index.html",
+		"/home/bcc/Projects/altsozluk/views/50x.ejs",
+		"/home/bcc/Projects/altsozluk/views/404.ejs",
+		"/home/bcc/Projects/altsozluk/bower.json",
+		"/home/bcc/Projects/altsozluk/views/500.ejs",
+		"/home/bcc/Projects/altsozluk/altsozluk.sublime-project",
+		"/home/bcc/.config/sublime-text-3/Packages/Less2Css/README.md",
+		"/home/bcc/.config/sublime-text-3/Packages/Less2Css/less2css.sublime-settings",
+		"/home/bcc/Projects/altsozluk/public/stylesheets/style.css",
+		"/home/bcc/Projects/altsozluk/public/javascripts/tagsinput.min.js",
+		"/home/bcc/.config/sublime-text-3/Packages/User/JSLint.sublime-settings",
+		"/home/bcc/Projects/altsozluk/styles/amp-bootstrap.scss",
+		"/home/bcc/Projects/phptest.php",
+		"/home/bcc/.config/sublime-text-3/Packages/JSLint/JSLint.sublime-settings",
+		"/home/bcc/Projects/altsozluk/routes/api.js",
+		"/home/bcc/Projects/altsozluk/middleware/authentication.js",
+		"/home/bcc/Projects/altsozluk/routes/auth.js",
+		"/home/bcc/Projects/altsozluk/views/display-name.ejs",
+		"/home/bcc/Desktop/kafa.js",
+		"/home/bcc/Projects/altsozluk/views/register.ejs",
+		"/home/bcc/Projects/altsozluk/views/user.ejs",
+		"/home/bcc/Projects/altsozluk/views/privacy.ejs",
+		"/home/bcc/Projects/altsozluk/views/removal.ejs",
+		"/home/bcc/Projects/altsozluk/views/usage.ejs",
+		"/home/bcc/Projects/altsozluk/views/profile.ejs",
+		"/home/bcc/Projects/altsozluk/views/word-not-found.ejs",
+		"/home/bcc/Projects/altsozluk/public/components/font-awesome/css/font-awesome.min.css",
+		"/home/bcc/Projects/altsozluk/.gitignore",
+		"/home/bcc/Projects/altsozluk/bin/www",
+		"/home/bcc/Projects/altsozluk/helpers/mailer.js",
+		"/home/bcc/Projects/altsozluk/views/contact.ejs",
+		"/home/bcc/Projects/altsozluk/views/about.ejs",
+		"/home/bcc/Projects/altsozluk/views/partials/alert.ejs",
+		"/home/bcc/Projects/altsozluk/views/emails/layout.html",
+		"/home/bcc/Projects/altsozluk/views/tag.ejs",
+		"/home/bcc/Projects/altsozluk/public/components/bootstrap4-tagsinput/tagsinput.js",
+		"/home/bcc/Projects/altsozluk/views/partials/pagination.ejs",
+		"/home/bcc/Desktop/bkp/views/partials/entry.ejs",
+		"/home/bcc/Desktop/index.js",
+		"/home/bcc/Desktop/entry.ejs",
+		"/home/bcc/Projects/altsozluk/public/components/jquery/src/css/var/isHiddenWithinTree.js",
+		"/home/bcc/Projects/altsozluk/models/Word.js",
+		"/home/bcc/Desktop/views/index.ejs",
+		"/home/bcc/Projects/altsozluk/public/components/vue/src/core/util/debug.js",
+		"/home/bcc/Projects/altsozluk/public/components/bootstrap/dist/css/bootstrap.css",
+		"/home/bcc/Projects/altsozluk/public/components/bootstrap4-tagsinput/tagsinput.scss",
+		"/home/bcc/Projects/altsozluk/public/components/bootstrap4-tagsinput/tagsinput.css",
+		"/home/bcc/Projects/altsozluk/public/components/bootstrap/scss/_variables.scss",
+		"/home/bcc/Projects/altsozluk/views/profile-words.ejs",
+		"/home/bcc/Projects/altsozluk/views/notfound.ejs",
+		"/home/bcc/Projects/altsozluk/views/layout.ejs",
+		"/home/bcc/Projects/altsozluk/routes/new-word.js",
+		"/home/bcc/Projects/altsozluk/views/error.ejs",
+		"/home/bcc/Scripts/altsozluk server.sh",
+		"/home/bcc/Projects/altvue/src/components/Hello.vue",
+		"/home/bcc/Projects/altvue/config/index.js",
+		"/home/bcc/Projects/altsozluk/vue/src/App.vue",
+		"/home/bcc/Projects/altsozluk/vue/src/components/Navbar.vue",
+		"/home/bcc/Projects/altsozluk/vue/src/components/Footer.vue",
+		"/home/bcc/Projects/altsozluk/vue/src/components/Hello.vue",
+		"/home/bcc/Projects/altsozluk/vue/index.html",
+		"/home/bcc/Projects/altsozluk/vue/.bowerrc",
+		"/home/bcc/Projects/altsozluk/views/layout.jade",
+		"/home/bcc/Projects/altsozluk/vue/src/main.js",
+		"/home/bcc/Projects/altsozluk/vue/app.vue",
+		"/home/bcc/Projects/altsozluk/vue/config/index.js",
+		"/home/bcc/Projects/altsozluk/views/index.jade",
+		"/home/bcc/Projects/altsozluk/views/error.jade",
+		"/home/bcc/Projects/.backup/altsozluk/views/index.jade",
+		"/home/bcc/Projects/exto/less/style.less",
+		"/home/bcc/Projects/exto/less/night.less",
+		"/home/bcc/Projects/exto/app/js/main.js",
+		"/home/bcc/Projects/exto/app/js/scenarios.js",
+		"/home/bcc/Projects/exto/app/js/style.js",
+		"/home/bcc/Projects/exto/bower.json",
+		"/home/bcc/Projects/exto/app/css/fonts.css",
+		"/home/bcc/Projects/exto/app/css/style.css",
+		"/home/bcc/.config/sublime-text-3/Packages/Autoprefixer/Autoprefixer.sublime-settings",
+		"/home/bcc/Projects/exto/less/day.less",
+		"/home/bcc/Projects/exto/app/js/scenario.js",
+		"/home/bcc/Projects/exto/gulpfile.js",
+		"/home/bcc/Projects/exto/app/js/rooms.js",
+		"/home/bcc/Projects/exto/app/js/base.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 317.0,
+		"where_history":
+		[
+			"<current file>",
+			"/home/bcc/Projects/altsozluk/views",
+			"<current file>",
+			"/home/bcc/Projects/altsozluk/views",
+			"<current file>",
+			"/home/bcc/Projects/altsozluk/views",
+			"<current file>",
+			"/home/bcc/Projects/altsozluk/public/components/bootstrap/scss/mixins",
+			"/home/bcc/Projects/altsozluk/public/components/bootstrap/scss",
+			"/home/bcc/Projects/altsozluk/public/components/bootstrap/scss/utilities",
+			"/home/bcc/Projects/.backup/altsozluk/public/templates",
+			"/home/bcc/Projects/altsozluk/vue",
+			"/home/bcc/Projects/exto/app/js",
+			"<current file>",
+			"/home/bcc/Projects/exto/app/js",
+			"<current file>",
+			"/home/bcc/Projects/exto/app/js",
+			"/home/bcc/Projects/extodev/js",
+			"<current file>",
+			"/home/bcc/Projects/extodev/js",
+			"<current file>",
+			"/home/bcc/Projects/extodev/js",
+			"<current file>",
+			"/home/bcc/Projects/exto/styles",
+			"<current file>",
+			"/home/bcc/Projects/exto/styles",
+			"<current file>",
+			"/home/bcc/Projects/exto/bower_components/remarkable-bootstrap-notify",
+			"/home/bcc/Projects/exto/public",
+			"<current file>",
+			"/home/bcc/Projects/exto/public/assets/lib/jquery-ui",
+			"/home/bcc/Projects/proteinkritik/app/Http/Controllers/Admin",
+			"/home/bcc/Projects/proteinkritik/vendor/intervention",
+			"/home/bcc/Projects/proteinkritik/resources/views/widget",
+			"/home/bcc/Projects/proteinkritik/resources/views/user",
+			"/home/bcc/Projects/proteinkritik/resources/views/static",
+			"/home/bcc/Projects/proteinkritik/resources/views/retailer-deal",
+			"/home/bcc/Projects/proteinkritik/resources/views/retailer",
+			"/home/bcc/Projects/proteinkritik/resources/views/rep",
+			"/home/bcc/Projects/proteinkritik/resources/views/product",
+			"/home/bcc/Projects/proteinkritik/resources/views/layouts",
+			"/home/bcc/Projects/proteinkritik/resources/views/include",
+			"/home/bcc/Projects/proteinkritik/resources/views/email",
+			"/home/bcc/Projects/proteinkritik/resources/views/category",
+			"/home/bcc/Projects/proteinkritik/resources/views/brand",
+			"/home/bcc/Projects/proteinkritik/resources/views/article",
+			"/home/bcc/Projects/proteinkritik/resources/views/include",
+			"/home/bcc/Projects/proteinkritik/resources/views/category",
+			"/home/bcc/Projects/proteinkritik/resources/views/brand",
+			"<current file>",
+			"/home/bcc/Projects/proteinkritik/app/Http/Controllers/Admin",
+			"/home/bcc/Projects/proteinkritik/resources/views/admin",
+			"/home/bcc/Projects/proteinkritik/database",
+			"/home/bcc/Projects/proteinkritik/resources/views/admin",
+			"<open files>",
+			"<current file>",
+			"/home/bcc/Projects/proteinkritik",
+			"/home/bcc/Projects/proteinkritik/app",
+			"/home/bcc/Projects/proteinkritik/database/migrations",
+			"<current file>",
+			"/home/bcc/Projects/proteinkritik/app/Http/Controllers/Admin",
+			"/home/bcc/Projects/proteinkritik/resources/views",
+			"/home/bcc/Projects/proteinkritik/app/Http/Controllers/Admin",
+			"/home/bcc/Projects/proteinkritik/resources/views/admin",
+			"/home/bcc/Projects/proteinkritik/app/Http/Controllers/Admin",
+			"/home/bcc/Projects/proteinkritik/resources/views/admin",
+			"<current file>",
+			"/home/bcc/Projects/proteinkritik/resources/views/admin",
+			"<current file>",
+			"/home/bcc/Projects/proteinkritik/resources/views/admin",
+			"<current file>",
+			"/home/bcc/Projects/proteinkritik/resources/views",
+			"/home/bcc/Projects/proteinkritik/app/Http/Controllers/Admin",
+			"<current file>",
+			"/home/bcc/projects/proteinkritik/resources/views/admin",
+			"/home/bcc/projects/proteinkritik/app/Http/Controllers/Admin",
+			"<current file>",
+			"/home/bcc/projects/proteinkritik/resources/views/admin",
+			"<current file>",
+			"/home/bcc/projects/proteinkritik/resources/views/admin",
+			"<current file>",
+			"/home/bcc/projects/proteinkritik/app/Forms",
+			"<current file>",
+			"/home/bcc/projects/proteinkritik/resources/views/admin",
+			"/home/bcc/projects/proteinkritik/resources/views/admin/approval",
+			"/home/bcc/projects/proteinkritik/app/Http/Controllers/Admin",
+			"/home/bcc/projects/proteinkritik/resources/views"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class",
+			"follows",
+			"load",
+			"../",
+			"font",
+			"exam",
+			"font",
+			"examplePos",
+			"width",
+			"textPos.x",
+			"textPos",
+			"l",
+			"drawText",
+			"textPos",
+			"render",
+			"options.padding_y",
+			"Image",
+			"desc_pos_y",
+			"center",
+			"withExample",
+			"withe",
+			"desc_pos_y",
+			"title_y",
+			"lineHeight",
+			"adjustFontSize",
+			"MAX_TXT_HEIGHT",
+			"textBlockHeight",
+			"sizeToFill",
+			"font_s",
+			"title_y",
+			"options.title",
+			"title_size",
+			"console",
+			"word_count",
+			"options.text",
+			"side-pa",
+			"span",
+			"navbar",
+			"focus",
+			"email-",
+			"facebook",
+			"btn-link",
+			"yeni-",
+			"tag",
+			"bootstr",
+			"conte",
+			"proces",
+			"results",
+			"exit",
+			"word",
+			"authenti",
+			"word-not",
+			"500",
+			"jpeg",
+			"cover",
+			"amp",
+			".btn",
+			"jpeg",
+			".css",
+			".js",
+			"btn-li",
+			"icon-lin",
+			"1200",
+			"120010",
+			"1200",
+			"title.size.y",
+			"natura",
+			"rotate",
+			"skewed",
+			"word",
+			"displ",
+			"addth",
+			"giris",
+			"/profi",
+			"passport",
+			"authenti",
+			"displa",
+			"altsözlük",
+			"footer",
+			"card",
+			"bulunamadı",
+			"login",
+			"dotenv",
+			"req.flash('error')",
+			"alert",
+			">\n",
+			"date",
+			"nth",
+			".contai",
+			"body>",
+			"input",
+			"entry-car",
+			"entr",
+			"sani",
+			"altSözlük",
+			"alt",
+			"push",
+			"getLike",
+			"user",
+			"sort",
+			"card",
+			"entry-c",
+			"hover",
+			"link-ic",
+			"ace",
+			"button",
+			"user",
+			"-h",
+			"entry-ca",
+			"if",
+			"undef",
+			"entry-ca",
+			"width: 100",
+			"definition",
+			"profil",
+			"auth",
+			"addthis_config.",
+			"entry-c",
+			"react_report",
+			"input",
+			"fa fa-",
+			"footer",
+			"card",
+			"entry-bo",
+			"px",
+			"54",
+			"57",
+			"body-pad"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"alt sözlük",
+			"altsözlük",
+			"",
+			"icon",
+			"@black-color",
+			"@theme-color",
+			"961px",
+			"960px",
+			"timer_form_data",
+			"",
+			"fonts",
+			"$dom.sTimerFormT4",
+			"$dom.sTimerFormT3",
+			"$dom.sTimerFormT2",
+			"$dom.sTimerFormT1",
+			"$dom.sTimerFormDailyRenew",
+			"$dom.sTimerFormRepeatCount",
+			"$dom.sTimerFormMin",
+			"$dom.sTimerFormHour",
+			"$dom.sTimerFormScheduleTime",
+			"$dom.sTimerFormDays",
+			"$dom.sTimerFormMonths",
+			"$dom.sTimerFormTimerTypes",
+			"$dom.sTimerFormStartTime",
+			"$dom.sPickup",
+			"$dom.sRuleList",
+			"$dom.sProgramLocationForm",
+			"$dom.sProgramTimerForm",
+			"$dom.sProgramFormTypes",
+			"$dom.sPickupDiv",
+			"$dom.sActions",
+			"$dom.sNameWrapper",
+			"$dom.sProgramFormWrapper",
+			"$dom.sPage",
+			"$sRuleList",
+			"sTimerRuleTpl",
+			"$sProgramLocationForm",
+			"$sProgramTimerForm",
+			"$sProgramFormWrapper",
+			"$sProgramFormTypes",
+			"$sPickupDiv",
+			"$sActions",
+			"$sNameWrapper",
+			"$sFormWrapper",
+			"$sPage",
+			"#",
+			"repeat_days[]",
+			"repeat_months[]",
+			"reset24",
+			"reload",
+			"count_amt",
+			"count",
+			"theme-color",
+			"btn-color",
+			"theme-color",
+			"btn-color",
+			"theme-color",
+			"btn-transparent",
+			"btn-color",
+			"<script src=\"mobiscroll/js/mobiscroll",
+			"mobiscroll/css/mobiscroll",
+			"toggle",
+			"3.3.1",
+			"1.1",
+			"popup",
+			"(../img",
+			"$request->",
+			"<div class=\"box-body\">\n                @yield('image.upload.form')",
+			"img {\n  max-width: 100%; /* This rule is very important, please do not ignore this! */\n  max-height: 500px;\n}",
+			"gereklidir",
+			"FormProduct",
+			"FormBrand",
+			"Article",
+			"article",
+			"inaktif",
+			"aktif",
+			"inaktif",
+			"/admin/magazalar/kampanyalar/",
+			"QuestionAnswer",
+			"::register('admin::",
+			"->parent('admin::",
+			"route('admin::",
+			"', route('admin::",
+			"register('admin::",
+			"parent('admin::",
+			"route('admin::",
+			"parent('admin::",
+			"register('admin::",
+			"$retailer",
+			"$View->class = \"box-primary\";",
+			"retailer",
+			"200, 200",
+			"200 200",
+			"/home/bcc/Projects/sandbox/oldopencart",
+			"product_requests",
+			"Mağaza",
+			"retailer",
+			"request",
+			"Tümünü Gör</a>",
+			" viewcolumn\"></th>",
+			"fa fa-newspaper-o",
+			"<br/>",
+			"",
+			"/admin_assets/css/cropper.css",
+			"/admin_assets/css/bootstrap-chosen.css",
+			"/admin_assets/js/jquery.SimpleCropper.js",
+			"/admin_assets/js/jquery.Jcrop.js",
+			"/admin_assets/js/chosen.jquery.js",
+			"<link href=\"/admin_assets/css",
+			"<script src=\"/admin_assets/",
+			"/admin_assets/",
+			"deal",
+			"fa-external-link",
+			"}}",
+			"date_format($",
+			"confirmed_at, 'd.m.Y') }}",
+			"small-image center-block",
+			"{{strtolower($product->brand->origin)}}",
+			"strtolower({{$product->brand->origin}})"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/bcc/Desktop/ffcount.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 365,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								88
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										100,
+										101
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										38,
+										39
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "popup.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								661,
+								661
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										1583,
+										1586
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										627,
+										630
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "popup.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3212,
+								3212
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3211,
+										3212
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										3208,
+										3209
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1824.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "popup.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30,
+								30
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										33,
+										34
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										6,
+										7
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "popup.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4064,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2245,
+								2245
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2264,
+										2265
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2199,
+										2200
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 713.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3212,
+								3212
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										3211,
+										3212
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										3208,
+										3209
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2966.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 528.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 411.0
+	},
+	"output.git-pull":
+	{
+		"height": 489.0
+	},
+	"output.git-push":
+	{
+		"height": 678.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 373.0
+	},
+	"pinned_build_system": "",
+	"project": "comarblocker.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"css",
+				"popup.css"
+			],
+			[
+				"image.",
+				"routes/image.js"
+			],
+			[
+				"util",
+				"helpers/util.js"
+			],
+			[
+				"profile.ejs",
+				"views/profile.ejs"
+			],
+			[
+				"index",
+				"views/index.ejs"
+			],
+			[
+				"sty",
+				"styles/style.less"
+			],
+			[
+				"word",
+				"routes/word.js"
+			],
+			[
+				"script",
+				"views/partials/scripts.ejs"
+			],
+			[
+				"entr",
+				"views/partials/entry.ejs"
+			],
+			[
+				"entry",
+				"views/partials/entry.ejs"
+			],
+			[
+				"new-w",
+				"views/new-word.ejs"
+			],
+			[
+				"word.ejs",
+				"views/word.ejs"
+			],
+			[
+				"login",
+				"views/login.ejs"
+			],
+			[
+				"scripts",
+				"views/partials/scripts.ejs"
+			],
+			[
+				"admi",
+				"routes/admin.js"
+			],
+			[
+				"ima",
+				"routes/image.js"
+			],
+			[
+				"uti",
+				"helpers/util.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"image.js",
+				"routes/image.js"
+			],
+			[
+				"admin",
+				"routes/admin.js"
+			],
+			[
+				"admin.js",
+				"routes/admin.js"
+			],
+			[
+				"head",
+				"views/partials/head.ejs"
+			],
+			[
+				"sidepa",
+				"views/partials/side-panel.ejs"
+			],
+			[
+				"gitdif",
+				"*git-diff*: /home/bcc/Projects/altsozluk"
+			],
+			[
+				"side-pa",
+				"views/partials/side-panel.ejs"
+			],
+			[
+				"side",
+				"views/partials/side-panel.ejs"
+			],
+			[
+				"new-wor",
+				"views/new-word.ejs"
+			],
+			[
+				"neww",
+				"views/new-word.ejs"
+			],
+			[
+				"entry.e",
+				"views/partials/entry.ejs"
+			],
+			[
+				"scri",
+				"views/partials/scripts.ejs"
+			],
+			[
+				"navb",
+				"views/partials/navbar.ejs"
+			],
+			[
+				"style",
+				"styles/style.less"
+			],
+			[
+				"new-wr",
+				"views/new-word.ejs"
+			],
+			[
+				"index.js",
+				"routes/index.js"
+			],
+			[
+				"logi",
+				"views/login.ejs"
+			],
+			[
+				"navba",
+				"views/partials/navbar.ejs"
+			],
+			[
+				"style.le",
+				"styles/style.less"
+			],
+			[
+				"app.",
+				"app.js"
+			],
+			[
+				"inde",
+				"public/components/tether/docs/welcome/index.html"
+			],
+			[
+				"faker",
+				"faker/faker.js"
+			],
+			[
+				"ide",
+				"routes/index.js"
+			],
+			[
+				"not",
+				"views/tag-not-found.ejs"
+			],
+			[
+				"404",
+				"views/404.ejs"
+			],
+			[
+				"scr",
+				"views/partials/scripts.ejs"
+			],
+			[
+				"word.e",
+				"views/word.ejs"
+			],
+			[
+				"amp",
+				"styles/amp-bootstrap.scss"
+			],
+			[
+				"entry.ejs",
+				"views/partials/entry.ejs"
+			],
+			[
+				"appjs",
+				"app.js"
+			],
+			[
+				"image",
+				"routes/image.js"
+			],
+			[
+				"enr",
+				"views/partials/entry.ejs"
+			],
+			[
+				"api.js",
+				"routes/api.js"
+			],
+			[
+				"env",
+				".env"
+			],
+			[
+				"inex",
+				"routes/index.js"
+			],
+			[
+				"disp",
+				"views/display-name.ejs"
+			],
+			[
+				"profile",
+				"views/profile.ejs"
+			],
+			[
+				"user.ej",
+				"views/user.ejs"
+			],
+			[
+				"fontaw",
+				"public/components/font-awesome/css/font-awesome.min.css"
+			],
+			[
+				"name",
+				"views/display-name.ejs"
+			],
+			[
+				"word-",
+				"views/word-not-found.ejs"
+			],
+			[
+				"index.e",
+				"views/index.ejs"
+			],
+			[
+				"login.e",
+				"views/login.ejs"
+			],
+			[
+				"less",
+				"styles/style.less"
+			],
+			[
+				"hea",
+				"views/partials/head.ejs"
+			],
+			[
+				"viewab",
+				"views/about.ejs"
+			],
+			[
+				"footer",
+				"views/partials/footer.ejs"
+			],
+			[
+				"les",
+				"styles/style.less"
+			],
+			[
+				"index.",
+				"routes/index.js"
+			],
+			[
+				"indee.js",
+				"views/index.ejs"
+			],
+			[
+				"head.e",
+				"views/partials/head.ejs"
+			],
+			[
+				"tag",
+				"views/tag.ejs"
+			],
+			[
+				"user",
+				"views/user.ejs"
+			],
+			[
+				"nav",
+				"views/partials/navbar.ejs"
+			],
+			[
+				"style.css",
+				"public/stylesheets/style.css"
+			],
+			[
+				"styl",
+				"styles/style.less"
+			],
+			[
+				"navbar.e",
+				"views/partials/navbar.ejs"
+			],
+			[
+				"usage",
+				"views/usage.ejs"
+			],
+			[
+				"priva",
+				"views/privacy.ejs"
+			],
+			[
+				"tagsi",
+				"public/components/bootstrap4-tagsinput/tagsinput.js"
+			],
+			[
+				"index.ejs",
+				"views/index.ejs"
+			],
+			[
+				"scrit",
+				"views/partials/scripts.ejs"
+			],
+			[
+				"pagina",
+				"views/partials/pagination.ejs"
+			],
+			[
+				"profil",
+				"views/profile.ejs"
+			],
+			[
+				"entry.ej",
+				"views/partials/entry.ejs"
+			],
+			[
+				"tagsin",
+				"public/components/bootstrap4-tagsinput/tagsinput.js"
+			],
+			[
+				"ntr",
+				"public/components/jquery/src/css/var/isHiddenWithinTree.js"
+			],
+			[
+				"pro",
+				"views/profile.ejs"
+			],
+			[
+				"profi",
+				"views/profile.ejs"
+			],
+			[
+				"word.",
+				"routes/word.js"
+			],
+			[
+				"foot",
+				"views/partials/footer.ejs"
+			],
+			[
+				"index.s",
+				"routes/index.js"
+			],
+			[
+				"remo",
+				"views/removal.ejs"
+			],
+			[
+				"profile.e",
+				"views/profile.ejs"
+			],
+			[
+				"conta",
+				"views/contact.ejs"
+			],
+			[
+				"cont",
+				"views/contact.ejs"
+			],
+			[
+				"remov",
+				"views/removal.ejs"
+			],
+			[
+				"side-",
+				"views/partials/side-panel.ejs"
+			],
+			[
+				"",
+				"views/new-word.ejs"
+			],
+			[
+				"tags",
+				"public/components/bootstrap4-tagsinput/tagsinput.js"
+			],
+			[
+				"new-",
+				"views/new-word.ejs"
+			],
+			[
+				"word.ej",
+				"views/word.ejs"
+			],
+			[
+				"tagin",
+				"public/components/bootstrap4-tagsinput/tagsinput.js"
+			],
+			[
+				"new-ew",
+				"views/new-word.ejs"
+			],
+			[
+				"style.cs",
+				"public/stylesheets/style.css"
+			],
+			[
+				"st",
+				"styles/style.less"
+			],
+			[
+				"faker.js",
+				"faker/faker.js"
+			],
+			[
+				"side-p",
+				"views/partials/side-panel.ejs"
+			],
+			[
+				"foo",
+				"views/partials/footer.ejs"
+			],
+			[
+				"ent",
+				"views/partials/entry.ejs"
+			],
+			[
+				"log",
+				"views/login.ejs"
+			],
+			[
+				"stlye",
+				"styles/style.less"
+			],
+			[
+				"tag.e",
+				"views/tag.ejs"
+			],
+			[
+				"displ",
+				"views/display-name.ejs"
+			],
+			[
+				"dis",
+				"views/display-name.ejs"
+			],
+			[
+				"sideb",
+				"public/components/vue/src/core/util/debug.js"
+			],
+			[
+				"bootst",
+				"public/components/bootstrap/dist/css/bootstrap.css"
+			],
+			[
+				"bootstrap.css",
+				"public/components/bootstrap/dist/css/bootstrap.css"
+			],
+			[
+				"syle",
+				"styles/style.less"
+			],
+			[
+				"sied",
+				"views/partials/side-panel.ejs"
+			],
+			[
+				"profil.ej",
+				"views/profile.ejs"
+			],
+			[
+				"user.e",
+				"views/user.ejs"
+			],
+			[
+				"tag.ejs",
+				"views/tag.ejs"
+			],
+			[
+				"use",
+				"views/user.ejs"
+			],
+			[
+				"navbar",
+				"views/partials/navbar.ejs"
+			],
+			[
+				"ne",
+				"views/new-word.ejs"
+			],
+			[
+				"indx",
+				"routes/index.js"
+			],
+			[
+				"about",
+				"views/about.ejs"
+			],
+			[
+				"new",
+				"views/new-word.ejs"
+			],
+			[
+				"new-e",
+				"views/new-word.ejs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

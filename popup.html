@@ -8,38 +8,36 @@
   </head>
   <body>
     <div id="wrapper">
-      <header class="head"><img src="icon.png"> Çomarblocker Beta</header>
-        <div id="desc" class="p-10">Çomarblocker, Twitter'da çomarlarý toplu halde bloklamak için kullanabileceðiniz bir uzantýdýr.
-        </div>
-        <div class="ready">
-          <div class="hero">
-            <div class="left">
-              <img class="icon" src="icon.png" style="">
-            </div>
-            <div class="middle">
-              <h3 id="count"></h3> 
-            </div>
-            <div class="right">
-              <div class="text"> çomar saptandý!</div>
-            </div>
-          </div>
-            
-          <a href="#" id="loadButton">+ daha fazla çomar</a>
-          <hr>
-          <div class="p-10 text-left">
-          <input class="styled-checkbox" type="checkbox" value="1" id="followerFlag">
-          <label for="followerFlag">Beni takip edenleri de blokla</label>
-          <button id="blockButton"><i class="icon-block"></i> blokla!</button>
-          </div>
-        </div>
-        <div class="not-ready">
-          <p><strong>Takip Edilen(Following)</strong> ve <strong>Takipçiler(Followers)</strong> sayfalarýnda çalýþýr. Sayfaya gidip tekrar deneyiniz.</p>
-          <img src="helper.png">
+      <header class="head"><img src="icon.png"> Çomarblocker Beta</header>        
+      <div class="ready">
+        <br>
+        <h3><span id="count">0</span> Hesap</h3>
+        <h4><span id="alreadyBlocked">0</span> Hesap Bloklu <i class="icon thumbs-up"></i></h4>
+        <br>
+        <button class="btn btn-primary" id="loadButton" style="margin-bottom: 10px;"><i class='icon-down'></i> Tüm Hesaplarý Yükle</button>
+        <hr>
+        <div class="p-10 text-left" id="action-wrapper">
+          <input class="styled-checkbox" type="checkbox" id="followerFlag">
+          <label for="followerFlag">Beni Takip Edenleri De Blokla</label>
+          <button class="btn btn-danger" id="blockButton"><i class="icon-block"></i> Blokla!&nbsp;</button>
+          <p class="note"><strong>Not:</strong> Bloklama baþladýðýnda iþlem miktarýna baðlý olarak sayfa uzun süre yanýt vermeyebilir. Twitter'ý yeni sekmede açýp kullanmaya devam edebilirsiniz.</p>
         </div>
       </div>
+      <div class="not-ready">
+        <div id="desc" class="p-10">Çomarblocker, Twitter'da hesaplarý toplu halde bloklamak için kullanabileceðiniz bir uzantýdýr.
+        </div>
+        <hr>
+        <p><strong>Takip Edilen(Following)</strong> ve <strong>Takipçiler(Followers)</strong> sayfalarýnda çalýþýr. Sayfaya gidip tekrar deneyiniz.</p>
+        <img src="helper.png">
+      </div>
+      <div class="operation">
+      <h4 id="opStatus"></h4>
+      </div>
+    </div>
     <div class="footer p-10">
       <span class="footer-left">
-        <i class="icon-question"></i> Yardým
+      &nbsp;
+        <!-- <i class="icon-question"></i> Yardým -->
       </span>
       <span class="footer-right">
       Görüþ / Öneri / Geribildirim: <a href="https://twitter.com/lIlmirlIl">@lIlmirlIl</a>

@@ -12,15 +12,13 @@
   "permissions": [
     "activeTab"
   ],
+   "background": {
+    "scripts": ["popup.js"]
+  },
   "content_scripts": [
     {
-      "matches": [
-        "http://www.twitter.com/*/following",
-        "https://www.twitter.com/*/following",
-        "http://www.twitter.com/*/followers",
-        "https://www.twitter.com/*/followers"
-      ],
-      "js": ["ffblock.js"]
+      "matches": ["https://*.twitter.com/*/followers","https://*.twitter.com/*/following"],
+      "js": ["jquery.slim.min.js","blocker.js"]
     }
   ]
 }
